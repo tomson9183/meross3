@@ -1,0 +1,12 @@
+	
+id	"{51320AE2-6481-44A0-AC33-42D4ED4D262E}"
+name	"MerossControl"
+type	3
+vendor	"Meross"
+authors	
+0	"MerossControl"
+url	"https://github.com/tomson9183/meross3"
+license	"MIT"
+version	"1.0"
+compatibility	"5.0"
+prefix	"MSS"
